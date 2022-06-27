@@ -1,8 +1,8 @@
 <?php 
 
-namespace sachinathu\HelloWorld;
+namespace sachinathu\HelloComposer;
 
-class Index
+class Greet
 {
     public function greet($greet = "Hello World")
     {
