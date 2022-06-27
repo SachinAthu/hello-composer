@@ -2,7 +2,7 @@
 
 namespace sachinathu\HelloComposer;
 
-class Greet
+class Index
 {
     public function greet($greet = "Hello World")
     {
